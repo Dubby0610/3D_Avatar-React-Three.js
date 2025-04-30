@@ -39,16 +39,6 @@ yarn
 yarn dev
 ```
 
-## Typing Animation:
-(![image](https://github.com/mahakPandeyOfficial/3D-Avatar-React-Threejs/assets/116765334/628dec2f-e7e3-4c90-a2ff-28477badfc35)
-
-## Falling Animation:
-![image](https://github.com/mahakPandeyOfficial/3D-Avatar-React-Threejs/assets/116765334/af887a93-70c0-4cb4-880c-3e9937f3f2d2)
-
-## Standing Animation:
-![image](https://github.com/mahakPandeyOfficial/3D-Avatar-React-Threejs/assets/116765334/07da3959-8bb1-40e1-b072-942f2b3b80ca)
-
-
 
 
 
